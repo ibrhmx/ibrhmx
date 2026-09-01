@@ -1,0 +1,7 @@
+{
+  "name": "Lunar Discovery: Project Selene",
+  "description": "High-fidelity 3D lunar exploration game featuring realistic Moon gravity, dynamic regolith dust physics, Apollo relic excavation, rover systems management, and deep lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
