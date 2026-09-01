@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm testing a game purely just using vibe coding. And will modify further to enhance this game to make it fun and interesting to play.
-Pls try and enjoy this game!
+I'm testing and building apps and games purely just using vibe coding. And will modify and enhance to make it fun and interesting to use and play.
+Pls try and enjoy the game and apps here!
 <!--
 **ibrhmx/ibrhmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
